@@ -1,2 +1,2 @@
 # R_Projeto
-“testando minha configuração”
+“este linha foi criado no Rstudio”
